@@ -27,7 +27,7 @@
       "pre-commit": "yarn lint",
       "pre-push": "yarn lint && yarn build && yarn test:parallel"
     }
-  },s
+  },
   "devDependencies": {
     "@babel/core": "^7.13.15",
     "@babel/plugin-proposal-class-properties": "^7.13.0",
